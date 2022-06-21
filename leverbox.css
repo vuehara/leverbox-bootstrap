@@ -1,0 +1,1554 @@
+
+body{
+    margin:0;
+    padding:0;
+}
+
+
+  
+
+@font-face {
+    font-family: "Nexab";
+    src: url(NexaBold.otf);
+    }
+    @font-face {
+        font-family: "Nexal";
+        src: url(NexaLight.otf);
+        }
+        @font-face {
+            font-family: "Nexar";
+            src: url(NexaRegular_0.otf);
+            }
+
+
+    
+      .menumobile{
+          display: none;
+      }
+    #notas{
+        text-decoration: none;
+    }
+    nav {
+       font-family: 'Nexab';
+     
+       margin-top:25px
+
+    
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+      
+        color: #000;
+        margin-top:55px
+    }
+    ul{
+        margin-left: 125px;
+        
+    }
+    li{
+        margin-right: 15px;
+    }
+    #tool{
+        margin-top:-12px;
+    }
+    #mundo{
+        margin-top:-8px;
+    }
+    #drive{
+        margin-top:-7px;
+    }
+    #faqs{
+        margin-top:-8px
+    }
+    #logo{
+       width: 230px;
+       margin-top: 40px;
+       margin-left: 30px;
+    }
+    .portadatexto{
+        font-family: 'Nexab';
+        font-size: 33px;
+        font-weight:bolder;
+        margin-top:180px;
+        margin-left:70px;
+        color:#000;
+        padding:40px;
+        letter-spacing: 1px;
+    }
+    .portada{
+     background-image: url(photolev66.jpg);
+     background-repeat: no-repeat;
+     background-size: contain;
+    margin-top: -25px;  
+    padding-bottom: 100px; 
+    
+    }
+    #ln{
+        margin-top:270px;
+        float: right;
+        margin-right: 20px;
+        width: 33px
+       ;
+    }
+    #inst{
+        
+        float:right;
+        margin-top:300px;
+        margin-right: -33px;
+        width: 33px;
+    }
+    #boton{
+        background-image: url(photolev67.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        color:#fff;
+        width: 250px;
+        
+        font-size:28px;
+        font-family: 'Nexab';
+        margin-left:100px;
+        letter-spacing: 1px;
+        font-weight: lighter;
+        height: 100px;
+         padding-left:35px;
+         padding-top: 15px;
+       
+       
+       
+    }
+    
+    #icoizq{
+        width: 120px;
+        
+
+    }
+    .quienesomos{
+        text-align: center;
+        font-size:28px;
+        font-family: 'Nexab';
+        margin-top: -35px;
+        color:#000;
+    }
+    .t2{
+        text-align: center;
+        font-size: 28px;
+        line-height: 69px;
+        color: #6292d1;
+        font-family: 'Nexab';
+        font-weight: bolder;
+        margin-top:-60px;
+       
+    }
+   .conleverbox{
+       background-image: url(photolev68.png);
+       background-repeat: no-repeat;
+       background-size:cover;
+       padding-bottom: 40px;
+   }
+    .t3{
+       font-size: 23px;
+       line-height: 30px;
+       color: #000000;
+       font-weight: 500;
+       font-family: "Quicksand";
+       text-align: center;
+       margin-top: -58px;
+
+    }
+    .desc{
+        margin-top:50px;
+      
+       
+    }
+    .container.desc{
+        padding-right: 90px;
+        padding-left:90px;
+        margin-top:-10px;
+        padding-bottom: 50px;
+    }
+    
+    .colgris{
+        background-image: url(photolev69.png);
+        background-size: contain;
+        background-repeat: no-repeat; 
+        margin-left: 30px;
+        
+       
+      
+
+    }
+    .colgris2{
+        background-image: url(photolev69.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        
+      
+       
+        
+      
+
+    }
+    .colgris3{
+        background-image: url(photolev69.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        margin-right: 30px;
+       
+        
+       
+        
+        
+      
+
+    }
+    .number{
+      
+        color: #6292d1;
+        font-family: 'Nexab';
+        font-size: 70px;
+        text-align: center;
+        margin-top: 50px;
+        line-height: 60px;
+        margin-left:-17px;
+    }
+    .number2{
+        color: #6292d1;
+        font-family: 'Nexab';
+        font-size: 25px;
+        text-align: center;
+        line-height: 2px;
+        font-weight: bolder;
+        margin-left:-21px;
+        
+        
+    }
+    .number3{
+        text-align: center;
+        font-size: 19px;
+        line-height: 21px;
+        color: #585858;
+        font-weight: 500;
+        font-family: "Quicksand";
+        margin-left:-20px;
+        
+        
+    }
+    #descbold{
+        font-weight: bold;
+    }
+    .qs{
+        text-align: center;
+        font-family: 'Nexab';
+        font-weight: bolder;
+        letter-spacing: 1px;
+        padding-top: 120px;
+        font-size: 26px;
+    }
+    .quienesomos2{
+        background: #efefef;
+        padding-bottom: 100px;
+        padding-right: 150px;
+        padding-left: 150px;
+    }
+    #pic1{
+        width: 180px;
+        height: 160px;
+        margin-left: 75px;
+    }
+   #pic2{
+       width: 200px;
+       height: 160px;
+       margin-left: 60px;
+   }
+   #pic3{
+    width: 180px;
+    height: 180px;
+    margin-top: -10px;
+    margin-left: 70px;
+   }
+   .name{
+       color: #ff8300;
+       text-align: center;
+       font-family: 'Nexab';
+       font-weight: bolder;
+       padding-top: 15px;
+       font-size: 22px;
+   }
+   .name3{
+    color: #ff8300;
+    text-align: center;
+    font-family: 'Nexab';
+    font-weight: bolder;
+    padding-top: 15px;
+    font-size: 22px;
+    margin-top:-10px
+}
+
+   .job{
+      color: #585858;
+      font-weight: 600;
+      font-family: "Quicksand";
+      text-align: center;
+      font-size: 16px;
+      letter-spacing: 1px;
+      margin-top: -20px;
+      line-height: 20px;
+    
+    }
+   
+
+    .location{
+        background-image: url(photolev70.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 700px;
+      
+    }
+    .ejes{
+        background-image: url(photolev71.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-left: 150px;
+        padding-bottom: 50px;
+    }
+    .ne{
+
+     color:#ff8100;
+     font-family: 'Nexab';
+     font-size: 33px;
+     font-weight: bolder;
+     margin-top:110px;
+     line-height: 35px;
+     letter-spacing: 1px;
+
+    }
+    #ejepic1{
+        width: 180px;
+        margin-top: 60px;
+        margin-left: 15px;
+    }
+    #ejepic2{
+        width: 180px;
+        margin-top: 240px;
+    }
+
+    #ejepic3{
+        width: 180px;
+        margin-top: 250px;
+    }
+    .t4{
+        
+        font-family: 'Nexab';
+        font-size: 20px;
+        font-weight: bolder;
+        margin-top: 20px;
+        letter-spacing: 1px;
+    }
+
+    .t4bis{
+        font-family: 'Nexab';
+        font-size: 20px;
+        font-weight: bolder;
+        margin-top: 20px;
+        letter-spacing: 1px;
+        margin-left: -20px;
+    }
+
+
+    .jobd{
+        color: #585858;
+        font-weight: 500;
+        font-family: "Quicksand";
+        line-height: 5px;
+        text-align: center;
+        margin-left: -180px;
+    }
+    .t5{
+        font-size: 21px;
+       
+        color: #000000;
+        font-weight: 500;
+        font-family: "Quicksand";
+        text-align: center;
+    }
+    .t5mobile{
+        display: none;
+    }
+    .experiencia{
+        background: #efefef;
+        padding-top:110px;
+    }
+    .container.iconexp{
+        margin-top: 50px;
+        margin-right: 140px;
+       
+     
+    }
+   .cnx{
+       float: right;
+       
+       color: #6290cf;
+       font-family: 'Nexab';
+       font-size: 19px;
+       font-weight: bold;
+       margin-right: -40px;
+       letter-spacing: 1px;
+      
+       
+   }
+   #iconx{
+       margin-left: 90px;
+       width: 50px;
+       
+   }
+   #iconx2{
+       width: 60px;
+       margin-left: 110px;
+   }
+
+   #iconx3{
+       width: 70px;
+       margin-left: 110px;
+   }
+  .exporow2{
+      margin-top: 20px;
+      padding-bottom: 110px;
+     
+  }
+
+  #iconx4{
+      width: 70px;
+      margin-left:80px
+  }
+  #iconx5{
+    width: 70px;
+    margin-left: 110px;
+}
+#iconx6{
+    width: 60px;
+    margin-left: 120px;
+}
+.cnx2{
+    margin-right: 30px;
+    float: right;
+    color: #6290cf;
+    font-family: 'Nexab';
+    font-size: 18px;
+    font-weight: bold;
+       
+}
+.cnx3{
+    margin-right: 60px;
+    float: right;
+    color: #6290cf;
+    font-family: 'Nexab';
+    font-size: 18px;
+    font-weight: bold;
+       
+}
+.ecosistema{
+   background-image: url(ecosistemafondo.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   padding-bottom: 110px;
+}
+#soluciones{
+    padding-top: 120px;
+    margin-right: 80px;
+ 
+ }
+#sol1{
+    width: 430px;
+    height: 85px;
+    margin-bottom: 8px;
+    margin-left: 5px;
+}
+
+#sol2{
+    width: 420px;
+    height: 80px;
+    margin-left: 10px;
+    margin-bottom: 6px;
+}
+.ecop{
+    font-family: 'Nexab';
+    font-size: 32px;
+    font-weight: bold;
+    color:#fefefe;
+    line-height: 35px;
+    margin-top:130px;
+    margin-left: 50px;
+
+}
+.col.colx{
+    margin-left: 40px;
+}
+.cnx4{
+    float: right;
+       
+       color: #6290cf;
+       font-family: 'Nexab';
+       font-size: 18px;
+       font-weight: bold;
+       margin-right: -45px;
+       letter-spacing: 1px;
+}
+.cnx5{
+    float: right;
+       
+       color: #6290cf;
+       font-family: 'Nexab';
+       font-size: 18px;
+       font-weight: bold;
+      
+       letter-spacing: 1px;
+}
+
+.cnx6{
+    float: right;
+    color: #6290cf;
+    font-family: 'Nexab';
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 30px;
+    letter-spacing: 1px;
+}
+#ecoico{
+    width: 410px;
+    margin-top:60px;
+    margin-left:50px;
+}
+#ecodesol{
+    margin-top:130px;
+    margin-left:90px;
+}
+
+#premiosimg{
+    width: 850px;
+    margin-left: 70px;
+}
+.certp{
+    color:#000;
+    font-family: 'Nexab';
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+    padding-top:140px;
+    padding-bottom: 20px;
+  
+}
+.certi{
+    padding-right:150px;
+    padding-left: 130px;
+    padding-bottom: 100px;
+    background: #efefef;
+
+}
+#certimg{
+    margin-left: 20px;
+}
+
+
+
+.prensaname1{
+text-align: center;
+font-size: 14px;
+line-height: 26px;
+color: #585858;
+font-style: italic;
+font-family: "Nexal";
+margin-top:30px;
+margin-left: 160px;
+}
+.prensaname2{
+    text-align: center;
+    font-size: 14px;
+    line-height: 20px;
+    color: #585858;
+    font-style: italic;
+    font-family: "Nexal";
+    margin-top:30px;
+    margin-left:-35px;
+   
+    }
+    .prensaname3{
+        text-align: center;
+        font-size: 14px;
+        line-height: 20px;
+        color: #585858;
+        font-style: italic;
+        font-family: "Nexal";
+       margin-top:15px;
+        margin-right: 170px;
+
+       
+        }
+
+        .prensaname4{
+            text-align: center;
+            font-size: 14px;
+            line-height: 20px;
+            color: #585858;
+            font-style: italic;
+            font-family: "Nexal";
+           margin-top:15px;
+            margin-right: -90px;
+    
+           
+            }
+            .prensaname5{
+                text-align: center;
+                font-size: 14px;
+                line-height: 20px;
+                color: #585858;
+                font-style: italic;
+                font-family: "Nexal";
+               margin-top:35px
+                
+        
+               
+                }
+
+                .prensaname6{
+                    text-align: center;
+                    font-size: 14px;
+                    line-height: 20px;
+                    color: #585858;
+                    font-style: italic;
+                    font-family: "Nexal";
+                   margin-top:40px;
+                    margin-right: 50px;
+            
+                   
+                    }  
+                    .prensaname7{
+                        text-align: center;
+                        font-size: 14px;
+                        line-height: 20px;
+                        color: #585858;
+                        font-style: italic;
+                        font-family: "Nexal";
+                       margin-top:40px;
+                        margin-right: 90px;
+                
+                       
+                        }
+
+
+
+.prensatitle{
+    color:#000;
+    font-family: 'Nexab';
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    padding-bottom: 20px;
+  
+}
+.prensa{
+    padding-left:150px;
+    padding-right: 150px;
+    background:#efefef;
+    padding-bottom: 130px;
+}
+#prensapic{
+    margin-top:25px;
+}
+#date{
+    color: #80e1bb;
+    font-family: "Nexal";
+    font-size: 17px;
+    padding-top: 20px;
+    font-weight: 200;
+}
+#subt{
+    color: #80e1bb;
+    font-family: "Nexab";
+    font-size: 16px;
+    margin-top: -16px;
+    font-weight: 600;
+}
+#tit{
+    color: #fff;
+    font-weight: 'Nexar';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 25px;
+}
+#text{
+    color:#fff;
+    font-size: 14px;
+    font-family: "Nexar";
+}
+.destacada{
+    background-image: url(photolev73.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 320px;
+    width: 310px;
+    margin-left: -3px;
+    padding-left: 30px;
+}
+.owl-theme .owl-dots .owl-dot span {
+    width: 20px;
+    height: 20px;
+    margin: 5px 7px;
+    background: #fff;
+    display: block;
+    -webkit-backface-visibility: visible;
+    transition: opacity .2s ease;
+    border-radius: 30px;
+    filter: drop-shadow(1.414px 1.414px 2.5px rgba(0,0,0,0.3));
+    
+}
+div.owl-nav{
+    display: none;
+
+}
+.owl-dots{
+    margin-left: 90px;
+    margin-top: 40px;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #618fcf;
+}
+.owl-carousel{
+    
+
+	margin-right: 50px;
+    margin-top: 25px;
+  
+    
+}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+  
+    font-size: 50px;
+}
+
+#noticias{
+    background-image: url(photolev69.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    height: 290px;
+    padding-bottom: 8px;
+    
+}
+
+.newstitle{
+color: #6290cf;
+font-family: "Nexab";
+padding-top: 40px;
+font-size: 15px;
+font-weight: bold;
+}
+.newsubtitle{
+    color:#000;
+    font-weight: 'Nexar';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+}
+.newsbody{
+    font-size: 15px;
+    font-family: 'Nexal';
+    font-weight: lighter;
+    color:#000;
+
+}
+
+.col.colp2{
+  
+background-image: url(photolev75.png);
+height: 300px;
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+.container.orange{
+    background-image: url(photolev76.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 320px;
+    margin-top: 150px;
+   
+}
+.sumatet{
+    color:#fff;
+    text-align: center;
+    font-family: 'Nexab';
+   padding-top: 50px;
+    font-size: 28px;
+    font-weight: bold;
+}
+.sumated{
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Quicksand";
+    font-size: 17px;
+    margin-top: 30px;
+    line-height: 13px;
+}
+div.container.contacto{
+    margin-top: 150px;
+   margin-right: 100px;
+    
+}
+.contact{
+    color:#ff8100;
+    font-family: 'Nexab';
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+.contact2{
+    display:none
+}
+.form-floating>.form-control:not(:placeholder-shown) {
+  
+    color: #797D7F;
+    font-weight: 300;
+    font-family: "Quicksand";
+    font-size: 14px;
+    opacity: 0.9;
+}
+.form-select{
+    color: #AAB7B8;
+    font-weight: 300;
+    font-family: "Quicksand";
+   
+}
+#name{
+    color:#000000;
+    font-size: 19px;
+    font-weight: 600;
+    font-family: "Quicksand";
+    padding-top: 5px;
+    opacity: 0.9;
+   
+
+    
+}
+option{
+    font-size: 14px;
+   
+}
+
+
+#mail{
+    color:#000000;
+    font-size: 19px;
+    font-weight: 600;
+    font-family: "Quicksand";
+    padding-top: 5px;
+    opacity: 0.9; 
+}
+#tel{
+    color:#000000;
+    font-size: 19px;
+    font-weight: 600;
+    font-family: "Quicksand";
+    padding-top: 5px;
+    opacity: 0.9; 
+}
+#button{
+    background-image: url(photolev77.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border:0;
+    float: right;
+    width: 160px;
+    padding:15px;
+    color:#fff;
+    font-weight: bold;
+    font-family: "Nexab";
+    font-size: 21px;
+    width: 180px;
+    height: 60px;
+    margin-top: 30px;
+    
+    
+}
+form{
+    margin-right: 50px;
+}
+#floatingSelectGrid{
+border-right: 0;
+border-left: 0;
+border-top: 0;
+border-bottom: 2px solid #717171;
+font-size: 14px;
+color: #839192;
+}
+#floatingInputGrid{
+border-right: 0;
+border-left: 0;
+border-top: 0;
+border-bottom: 2px solid #717171;
+}
+.form-control:focus {
+  
+    box-shadow: 0;
+    border:0
+}
+
+.contactd{
+ 
+    font-size: 18px;
+    padding-left: 100px;
+    color: #000001;
+    font-weight: 600;
+    font-family: "Quicksand";
+    
+}
+#phone{
+    width: 25px;
+}
+#phone2{
+    width: 20px;
+    
+}
+.bs{
+    margin-left: 30px;
+}
+
+#lkdn{
+    width: 40px;
+    margin-left: 100px;
+}
+#ig{
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+footer{
+    background:#618fcf;
+    padding-top:50px;
+    padding-bottom: 120px;
+    margin-top: 120px;
+    
+}
+#logo2{
+    width: 200px;
+    margin-left: 180px;
+    margin-top:20px
+}
+footer .navbar-expand-lg .navbar-nav .nav-link {
+      
+    color: #fff;
+   
+   
+} 
+
+#nav2{
+    margin-left: 10px
+}
+#mundo2{
+    width: 35px;
+    margin-top: -8px;
+}
+#tool2{
+    width: 30px;
+    margin-top: -6px;
+}
+#drive2{
+    height: 35px;
+    margin-top: -5px;
+}
+#faqs2{
+    width: 30px;
+    margin-top: -7px;
+}
+
+ div.container.linefooter{    
+      border-top: solid #fff 1px;
+      border-bottom: solid #fff 1px;
+      width: 85%;
+      padding-top: 5px;
+      padding-bottom: 5px;
+    
+     
+      
+    
+}
+.copy{
+   
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Quicksand";
+    text-align: right;
+    margin-top: -40px;
+
+}
+.tyc{
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Quicksand";
+    margin-top: 25px;
+}
+#icod{
+    display: none;
+}
+#t2imgmob{
+    display: none;
+}
+#t2imgmobile{
+    display: none;
+}
+.expmobile{
+    display: none;
+}
+#premiosmobile{
+    display: none;
+}
+.sumatetmobile{
+    display: none;
+}
+
+#form2{
+    display: none;
+}
+.footermobile{
+    display:none;
+}
+.quienesomosmobile {
+    display: none
+
+}
+#mobilepremi{
+    display: none;
+}
+.t3mobile{
+    display: none;
+}
+.item{
+    height: 250px;
+}
+
+
+  
+
+  
+@media (max-width: 600px) {
+   
+       .menumobile{
+           display: block;
+           height: 80px;
+           padding-top: 10px;
+
+       }
+     #logo3{
+         margin-left: 55px;
+         margin-top: 5px;
+     }
+     #menumob{
+         float: right;
+         width: 50px;
+         padding-top: 20px;
+         margin-right: 15px;
+     }
+    .portada {
+        background-image: url(photolev78.png);
+        background-repeat: no-repeat;
+        margin-bottom: -80px;
+       
+    }
+    #ecodesol {
+       
+        width: 200px;
+        margin-left: 60px;
+    }
+    #portadaimg{
+        margin-top:230px;
+        margin-left: -50px;
+    }
+    #boton{
+        margin-left:60px
+    }
+    #ln{
+        display:none;
+    }
+    #inst{
+        display: none;
+    }
+    .quienesomosmobile {
+        display: block;
+        font-size: 19px;
+        margin-top: 40px;
+        margin-right: 30px;
+        margin-left: 30px;
+        text-align: center;
+        color:#000;
+        font-family: 'Nexab';
+       
+    }
+    .quienesomos{
+        display: none;
+    }
+    #icoizq {
+        width: 80px;
+    }
+    #icod{
+        display: block;
+        width: 80px;
+        float: right;
+        margin-top: -60px;
+    }
+    #t2img{
+        margin-top:40px;
+    }
+    #t2img {
+        display: none;
+    }
+    #t2imgmob {
+        display: block;
+        width: 220px;
+        margin-left: 140px;
+        margin-top: 50px;
+    }
+    .t3 {
+        display: none;
+        
+    }
+    .t3mobile{
+        display: block;
+        font-size: 19px;
+        font-weight: 500;
+        font-family: "Quicksand";
+        text-align: center;
+        margin-top:-50px
+    }
+    
+    .colgris2 {
+        margin-left: 15px;
+        margin-bottom: 25px;
+        
+  }
+
+  .colgris {
+   
+    margin-bottom: 25px;
+    margin-left: 15px;
+}
+.colgris3 {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.number{
+    margin-left:-15px
+}
+.number2{
+    margin-left:-18px;
+}
+.number3{
+    margin-left:-20px;
+}
+#qsimg{
+    margin-left: -20px;
+}
+#pic1 {
+    margin-left:0
+}
+#sebaimg{
+    margin-left:-20px;
+}
+.job {
+    line-height: 15px;
+    font-size: 13px;
+    
+}
+#pic2 {
+   margin-left:-20px
+}
+
+#ignacioimg{
+    margin-left: -40px;
+}
+#pic3 {
+    margin-left: 0;
+}
+#joseimg{
+    margin-left:-20px;
+}
+.location {
+    background-image: url(photolev79.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+#neimg{
+    margin-left: -80px;
+    width: 140px;
+}
+#ejepic1 {
+    margin-left:-15px;
+}
+.jobd {
+    
+    margin-left: -150px;
+}
+#ejepic2 {
+    margin-top:20px;
+    margin-left:-10px;
+}
+#ejepic3 {
+    margin-top: 20px;
+}
+#t2imgdesk{
+    display: none;
+}
+.experiencia {
+    background: #fff;
+    padding-top:60px;
+    padding-bottom: 40px;
+}
+#t2imgmobile{
+    display: block;
+    width:180px;
+    margin-left: 150px;
+    padding-top:100px
+}
+.ejes {
+   
+    padding-bottom: 120px;
+}
+.t4{
+    margin-left:-15px;
+}
+
+.t4bis {
+
+    margin-left: -18px;
+}
+
+.t5 {
+   display: none;
+}
+.t5mobile{
+    display: block;
+    font-size: 17px;
+    padding: 20px;
+    color: #000000;
+    font-weight: 500;
+    font-family: "Quicksand";
+    text-align: center;
+    margin-bottom: 50px;
+    
+    
+}
+.expmobile{
+    display: block;
+}
+.cnx {
+    float: right;
+    margin-right: 115px;
+    margin-bottom: 70px;
+    margin-top:5px;
+}
+.container.iconexp {
+   
+    display: none;
+}
+#iconx {
+    margin-bottom: 40px;
+}
+#iconx2 {
+    margin-left: 85px;
+    margin-top: 35px;
+}
+.cnx {
+    margin-right: 100px;
+}
+.cnx1{
+    float: right;
+    color: #6290cf;
+    font-family: 'Nexab';
+    font-size: 19px;
+    font-weight: bold;
+    letter-spacing: 1px; 
+    margin-right: 83px;
+    margin-top: -50px;
+    
+}
+.cnx2{
+    float: right;
+    color: #6290cf;
+    font-family: 'Nexab';
+    font-size: 19px;
+    font-weight: bold;
+    letter-spacing: 1px; 
+    margin-right: 130px;
+    margin-top: -50px;
+    
+}
+
+.col.mobile{
+    padding-bottom: 20px;
+}
+#iconx5 {
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.cnx5 {
+    margin-top: -60px;
+    margin-right: 170px;
+}
+#iconx3 {
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.cnx8{
+    float: right;
+    color: #6290cf;
+    font-family: 'Nexab';
+    font-size: 19px;
+    font-weight: bold;
+    letter-spacing: 1px; 
+    margin-right: 135px;
+    margin-top: 35px;
+}
+#iconx6 {
+    margin-left: 85px;
+    padding-bottom: 50px;
+    margin-top: 40px;
+   ;
+}
+.cnx6 {
+    margin-right: 212px;
+    letter-spacing: 1px;
+    margin-top: -100px;
+}
+#ecoico {
+    width: 400px;
+    margin-left: 30px;
+}
+
+
+#certimg{
+   display: none;
+}
+
+#premiosimg{
+    display: none;
+}
+#premiosmobile {
+    display: block;
+     width: 380px;
+    margin-left: -80px;
+
+}
+#mobilepremi{
+    width: 230px;
+    margin-top:-60px;
+    padding-bottom: 60px;
+    margin-left: -10px;
+    display: block;
+}
+
+.prensatitle {
+   margin-left: -20px;
+}
+#news1 {
+    
+    margin-left: -60px;
+}
+#dots {
+    margin-left: 20px;
+}
+.container.orange {
+    background-image: url(photolev80.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 530px;
+    width: 450px;
+   
+    
+    
+}
+
+.sumatetmobile{
+    display: block;
+    color: #fff;
+    text-align: center;
+    font-family: 'Nexab';
+    padding-top: 80px;
+    font-size: 28px;
+    font-weight: bold;
+    
+}
+.sumatet {
+  display: none;
+  
+}
+.sumated{
+    margin-right: 120px;
+    margin-left: 120px;
+    line-height: 20px;
+    margin-top: 30px;
+    
+}
+div.container.contacto {
+    margin-top: 100px;
+  
+}
+form{
+    display: none;
+}
+#form{
+    display: none;
+}
+#form2{
+    display: block;
+    width: 350px;
+    margin-bottom: 200px;
+    margin-left: 50px;
+}
+#lkdn {
+
+    margin-top: -20px;
+    margin-left: 60px;
+}
+#ig{
+    margin-top:-10px;
+}
+.contactd {
+   
+    padding-left: 60px;
+   
+}
+.contact {
+    display: none;
+}
+.contact2{
+  display: block;
+  color:#ff8100;
+    font-family: 'Nexab';
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 10px;
+    
+}
+
+.navbar-nav {
+  background:#fff;
+}
+
+.footermobile{
+    display:block
+}
+div.container.linefooter{
+    display: none;
+}
+#logo2{
+    margin-top: -120px;
+    width: 220px;
+    margin-left: 65px;
+   
+}
+
+.verticalmenu{
+    color: #ffffff;
+    font-weight: bold;
+    margin-left: 80px;
+   
+}
+.verticalmenu p{
+    font-family: 'Nexab';
+    line-height: 35px;
+    
+}
+#i{
+    width: 40px;
+    margin-right: 50px;
+}
+.copy2{
+    color:#fff;
+    margin-left: 90px;
+    font-weight: 600;
+    font-family: "Quicksand";
+}
+#logo{
+    display: none;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: #000;
+    margin-top: 2px;
+    padding: 10px;
+    
+}
+a#menmob{
+    text-decoration: none;
+    color:#fff
+  
+}
+
+.owl-carousel{
+
+    margin-right: 0;
+	margin-top: 5px;
+	
+}
+#noticias{
+    padding-left:40px;
+}
+#slide1{
+    width: 330px;
+    margin-left: 70px;
+}
+.prensa{
+
+padding:0
+}
+#prensapic{
+    margin-left: 70px;
+}
+.owl-theme .owl-dots .owl-dot span {
+    width: 18px;
+    height: 18px;
+  
+}
+.owl-dots{
+    margin-left: 120px;
+    margin-top: 40px;
+    padding-bottom: 110px;
+}
+.destacada{
+    margin-left:68px;
+}
+.navbar-toggler {
+    background-color: red;
+   
+}
+.navbar-toggler-icon{
+   background-image: url(photolev81.png);
+   position: relative;
+   margin-left: 400px;
+   width: 50px;
+   margin-top: -120px;
+
+}
+.navbar-nav {
+  
+    margin-top: -38px;
+    margin-right: -5px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    text-align: right;
+}
+#menu3{
+    display: none;
+}
+#sol1{
+    padding-right: 20px;
+    padding-left: 20px;
+    height: 76px;
+}
+#sol2{
+    padding-right: 20px;
+    padding-left: 20px;
+    height: 73px;
+}
+p#suma{
+    margin-top: 25px;
+}
+}
